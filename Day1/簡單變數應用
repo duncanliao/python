@@ -1,0 +1,3 @@
+#將print(input("請輸入:"))改為以變數進行
+a=input("請輸入:")
+print(a)
