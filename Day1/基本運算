@@ -1,0 +1,7 @@
+a=2.2
+a*=4
+print(a)
+a=int(a)
+print(a)
+a=divmod(a,3)
+print(a)
